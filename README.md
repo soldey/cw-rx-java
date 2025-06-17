@@ -24,7 +24,9 @@
 ## Принципы работы Schedulers
 
 IOThreadScheduler - I/O-bound задачи
+
 ComputationScheduler - CPU-bound задачи
+
 SingleScheduler - последовательное выполнение
 
 ### Результаты тестирования
