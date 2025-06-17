@@ -40,7 +40,7 @@ SingleScheduler - последовательное выполнение
  - Тестирование Operator (операторы)
  - Тестирование Scheduler (IOThreadScheduler и SingleScheduler)
 
-### Пример использования
+## Пример использования
 
 1. Создание Observable
 ```java
