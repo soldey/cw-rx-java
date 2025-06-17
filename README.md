@@ -29,11 +29,11 @@ SingleScheduler - последовательное выполнение
 
 ### Результаты тестирования
 
-Файл [Main.java]() демонстрирует работу основного функционала приложения на двух сценариях:
+Файл [Main.java](https://github.com/soldey/cw-rx-java/blob/master/src/main/Main.java) демонстрирует работу основного функционала приложения на двух сценариях:
 1. Использование Map и Filter (сначала Map, затем Filter)
 2. Использование FlatMap
 
-Помимо демонстрации их работы, в пакете [test]() также есть Unit тесты для тестирования основного функционала:
+Помимо демонстрации их работы, в пакете [test](https://github.com/soldey/cw-rx-java/tree/master/src/test) также есть Unit тесты для тестирования основного функционала:
  - Тестирование Observable (подписки)
  - Тестирование Operator (операторы)
  - Тестирование Scheduler (IOThreadScheduler и SingleScheduler)
